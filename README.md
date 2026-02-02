@@ -1,1 +1,1 @@
-# this is an educational game for school
+This is a test just click off of this
